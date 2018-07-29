@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="demo" />
+        <module name="springboot-redis-session" />
+        <module name="swagger-ui-layer" />
+        <module name="test" />
+        <module name="vanke-ioc-redis" />
+        <module name="vanke-ioc-security-ldap" />
+        <module name="vanke-ioc-swagger" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="demo" target="1.8" />
+      <module name="demo (1) (com.dudu)" target="1.8" />
+      <module name="spring-boot-starter-swagger" target="1.6" />
+      <module name="springboot-redis-session" target="1.8" />
+      <module name="swagger-ui-layer" target="1.7" />
+      <module name="test" target="1.5" />
+      <module name="vanke-ioc-redis" target="1.8" />
+      <module name="vanke-ioc-security-ldap" target="1.8" />
+      <module name="vanke-ioc-swagger" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
